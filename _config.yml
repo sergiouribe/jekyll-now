@@ -19,16 +19,14 @@ avatar: https://www.dropbox.com/s/zg3zf6oic4vpgah/uribe.jpeg?dl=0
 footer-links:
   dribbble:
   email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  flickr: https://www.flickr.com/photos/suribe/
+  github: https://github.com/sergiouribe
+  linkedin: https://www.linkedin.com/in/sergiouribe
+  pinterest: https://es.pinterest.com/sergiouribe/
   rss: # just type anything here for a working RSS icon
   twitter: sergiouribe
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/suribe
   googleplus: u/0/+SergioUribe
 
 
