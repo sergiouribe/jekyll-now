@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Sergio Uribe
+PhD, MSc, DDS. 
+Associate Professor, Universidad Austral de Chile
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+See  [sergiouri.be](http://sergiouri.be/ "sergiouri.be").
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sergio.uribe@gmail.com](mailto:sergio.uribe@gmail.com)
